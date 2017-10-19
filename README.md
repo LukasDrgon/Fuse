@@ -4,6 +4,7 @@
 
 [![npm version](https://badge.fury.io/js/fuse.js.svg)](https://www.npmjs.com/package/fuse.js)
 [![Build Status](https://secure.travis-ci.org/krisk/Fuse.svg?branch=master)](http://travis-ci.org/krisk/Fuse)
+[![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/fuse.js/badge?style=rounded)](https://www.jsdelivr.com/package/npm/fuse.js)
 [![Join the chat at https://gitter.im/fuselib/Lobby](https://badges.gitter.im/fuselib/Lobby.svg)](https://gitter.im/fuselib/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-red.svg)](https://www.paypal.me/kirorisk)
 [![Donate](https://img.shields.io/badge/patreon-donate-red.svg)](https://www.patreon.com/fusejs)
